@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"To be or nor to be!"
 Use the left arrow to go back!
